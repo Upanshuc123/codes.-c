@@ -1,1 +1,1 @@
-# C language codes.-c
+# C language codes
